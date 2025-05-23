@@ -25,7 +25,7 @@
 ###
 
 <div align="center">
-  <a href="discord.com/users/873216410581618761" target="_blank">
+  <a href="https://discord.com/users/828173326237040670" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=archdevx&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://x.com/Archonixs" target="_blank">
