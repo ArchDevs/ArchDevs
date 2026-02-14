@@ -14,9 +14,7 @@ I am currently working on HyLauncher<br><br>I am learning Golang, backend, crypt
 ![](https://github-readme-stats.vercel.app/api?username=ArchDevs&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ArchDevs&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArchDevs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://stats.hyo.dev/stats/ArchDevs"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=ArchDevs" width="600" /></a>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ArchDevs&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![Repos I created](https://github-contrib-stats.vercel.app/ArchDevs/created.svg)
+<a href="https://stats.hyo.dev/stats/ArchDevs"><img src="https://stats.hyo.dev/api/github-trophies?login=ArchDevs" width="600" /></a>
