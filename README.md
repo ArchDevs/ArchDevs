@@ -2,7 +2,7 @@
 Hello, i am Matthew
 software engineer from Georgia 
 
-I am currently working on HyLauncher<br><br>I am learning Golang, backend, cryptography and networking
+I am currently working on Radix Messenger and HyLauncher<br><br>I am learning Golang & Rust, backend, cryptography and networking
 
 
 ## 🌐 Socials:
